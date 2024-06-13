@@ -68,6 +68,12 @@ python androboy.py --nvd-url https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
+## Credits
+
+AndroBoy is developed by Adam Rivers of Hello Security LLC. 
+
+Copyright ©️ 2024 Hello Security LLC. 
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
