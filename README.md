@@ -1,6 +1,3 @@
-# AndroBoy
-Android vulnerability and security scanner via ADB
-
 # AndroBoy - Android Security Scanner
 
 AndroBoy is designed to perform security scans on Android devices. It checks for known vulnerabilities in installed packages using the National Vulnerability Database (NVD), searches for known malware paths, and checks for suspicious permissions in installed applications.
