@@ -1,0 +1,14 @@
+[
+    "android.permission.READ_SMS",
+    "android.permission.RECEIVE_BOOT_COMPLETED",
+    "android.permission.READ_CONTACTS",
+    "android.permission.WRITE_CONTACTS",
+    "android.permission.RECEIVE_MMS",
+    "android.permission.RECEIVE_SMS",
+    "android.permission.SEND_SMS",
+    "android.permission.WRITE_SMS",
+    "android.permission.READ_CALL_LOG",
+    "android.permission.WRITE_CALL_LOG",
+    "android.permission.READ_PHONE_STATE",
+    "android.permission.PROCESS_OUTGOING_CALLS"
+]
